@@ -16,6 +16,6 @@ variable for each activity and each subject.
 7. `avg_tbl` is the mean of each feature by subject and activity which is then exported as "avg_table.txt"
 
 # Values:
- 1.) "total_acc", a measurement in the data set, is measured in 'g.'<sup>1<\sup>
+ 1.) "total_acc", a measurement in the data set, is measured in 'g.'<sup>1
  2.) "body_acc" is the difference between the acceleration signal and the total_acc signal
  3.) "gyro_acc" is the "angular velocity" measured in "radians/sec"
