@@ -5,7 +5,7 @@
 ### 2.) Install.packages for the library files are downloaded prior to analysis
 
 ### Program name : r_analysis.
-### Funtions:
+### Functions:
 ### 1.) merge test and train data into single data frame
 ### 2.) keeps only relevent data per project parameters
 ### 3.) links activity names to subject and measured results
