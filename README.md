@@ -4,7 +4,7 @@
  * Data is downloaded and made working directory for the analysis
  * Install.packages for the library files are downloaded prior to analysis
 
-### Program name : r_analysis.
+### Program name : run_analysis.
 ### Functions:
  * merge test and train data into single data frame
  * keeps only relevent data per project parameters
