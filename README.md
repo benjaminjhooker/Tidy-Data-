@@ -1,8 +1,8 @@
 # Tidy-Data-
 ## Getting and Cleaning Data for the Activity Recognition.
 ### Assumptions: 
- *Data is downloaded and made working directory for the analysis
- *Install.packages for the library files are downloaded prior to analysis
+ * Data is downloaded and made working directory for the analysis
+ * Install.packages for the library files are downloaded prior to analysis
 
 ### Program name : r_analysis.
 ### Functions:
